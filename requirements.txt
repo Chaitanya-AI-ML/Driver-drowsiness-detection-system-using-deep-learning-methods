@@ -1,0 +1,28 @@
+# Core numerical libraries
+numpy==1.26.4
+pandas==2.2.2
+
+# Deep Learning (TensorFlow & Keras)
+tensorflow==2.15.0
+keras==2.15.0
+
+# Image Processing
+opencv-python==4.9.0.80
+Pillow==10.3.0
+
+# Data Visualization
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# Machine Learning Utilities
+scikit-learn==1.4.2
+
+# Dataset Handling
+kaggle==1.6.14
+
+# File handling (comes with Python, but safe to include dependencies)
+glob2==0.7
+
+# Optional (better performance / compatibility)
+h5py==3.11.0
+tqdm==4.66.4
